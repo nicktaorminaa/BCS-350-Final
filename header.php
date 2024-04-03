@@ -1,6 +1,6 @@
 <?php
 // header.php - Page Header
-// Written by: Charles Kaplan, November 2018
+// Written by: Nicholas Taormina, December 2022
 
 // Page Header
 	echo "<!doctype html>
