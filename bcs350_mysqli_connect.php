@@ -1,6 +1,6 @@
 <?php
 // bcs350_mysql_connect.php - Logon to MySQl and connect to the BCS350 database
-// Written by: Charles Kaplan, May 2015
+// Written by: Nicholas Taormina, December 2022
 
 // Connect to MySQL and the personal Database
 	$mysqli = mysqli_connect('localhost', 'root', '', 'bcs350')
