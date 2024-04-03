@@ -1,6 +1,6 @@
 <?php
 // session.php - Check for Logon and Load Session Variables
-// Written by:  Charles Kaplan, December 2017
+// Written by:  Nicholas Taormina, December 2022
 
   session_start();
   
