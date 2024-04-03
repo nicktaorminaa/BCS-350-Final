@@ -1,6 +1,6 @@
 <?php
 // variables.php - Common Website Variables
-// Written by:  Charles Kaplan, December 2017
+// Written by:  Nicholas Taormina, December 2022
 
 // Set Default PHP Options
 	date_default_timezone_set('America/New_York');
