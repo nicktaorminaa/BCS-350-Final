@@ -1,7 +1,6 @@
 <?php
 // register.php - Website Registration
-// Written by:  Charles Kaplan, December 2017
-
+// Written by:  Nicholas Taormina, December 2022
 // Verify that program was called from LANDING Program
 	require('landing.php');
   
